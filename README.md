@@ -10,8 +10,6 @@ https://www.clarity.community/
 
 https://x.com/clarity_dao
 
-Our mission is to champion the interests of entrepreneurs in the Cardano ecosystem. We strive to be the voice of those who prioritize Cardano as a reliable, stable, and robust infrastructure for building businesses. The Clarity founding team is committed to transparency in all voting processes, providing detailed rationale for every vote to ensure accountability.
-
 We are deeply passionate about blockchain technology and have a strong conviction that the world will become decentralized, with blockchain serving as a superior source of truth across industries and use cases creating globally transparent free markets. As a decentralized representative (dRep) for the Cardano ecosystem, we strive to champion the interests of entrepreneurs and builders who rely on Cardano as a reliable, stable, and robust infrastructure for building businesses. We are committed to transparency in all voting processes, providing a clear rationale for every vote to ensure accountability.
 
 ## Our Main Goals as a dRep
